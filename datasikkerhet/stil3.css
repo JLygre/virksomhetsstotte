@@ -1,0 +1,47 @@
+body{
+	background-color:lightcyan;
+	padding-bottom:40px;
+	border: 1px solid transparent;
+	
+}
+
+
+header{
+	background:coral;
+	width:698px;
+	color:black;
+	margin-left:291px;
+	left:100px;
+	padding:20px;
+	font-size:40px;
+	text-align:center;
+	
+	
+}
+
+main{	
+		font-size:20px;
+		width:700px;
+		height:400px;
+		position:relative;
+		right:100px;
+		background-color:grey;
+		padding:20px;
+		margin:auto;
+		color:white;
+}
+
+.bilde1{			
+		position:absolute;
+		top:142px;
+		left:-10px;
+}
+
+
+.bilde2{
+		position:absolute;
+		top:142px;
+		left:1038px;
+	
+	
+}

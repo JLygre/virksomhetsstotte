@@ -1,0 +1,41 @@
+body{
+		background-color:black;
+	
+	
+}
+
+header{
+		width:600px;
+		height:30px;
+		background-color:blue;
+		padding:20px;
+		color:white;
+		margin:auto;
+}
+
+main{
+		width:600px;
+		height:auto;
+		background-color:mintcream;
+		padding:20px;
+		margin:auto;
+		color:black;
+	
+}	
+
+
+
+.bilde1{
+		position:absolute;
+		top:200px;
+		left:100px;
+	
+}
+
+
+.bilde2{
+		position:absolute;
+		top:200px;
+		left:1200px;
+	
+}
